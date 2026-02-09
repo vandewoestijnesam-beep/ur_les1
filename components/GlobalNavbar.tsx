@@ -24,6 +24,11 @@ export default function GlobalNavbar() {
           <Link href="/project1" className="text-gray-700 hover:text-blue-600 transition">
             Project 1
           </Link>
+          <Link href="/project2" className="text-gray-700 hover:text-blue-600 transition">
+            Project 2
+          </Link><Link href="/project3" className="text-gray-700 hover:text-blue-600 transition">
+            Project 3
+          </Link>
 
           <Link href="/contact" className="text-gray-700 hover:text-blue-600 transition">
             Contact
